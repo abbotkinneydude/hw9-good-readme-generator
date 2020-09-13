@@ -14,7 +14,7 @@
   * [References](#References)
   * [License](#License)
   * [Contact](#Contact)
-/Users/pierreandrelowenstein/Documents/GitHub/hw9-good-readme-generator/demo_assets/ucla-hw9-cli-good-read-me-generator-terminal-demo.mp4
+
 ## GIF
 ![CLI Good Read Me Generator (GIF)](./demo_assets/ucla-hw9-cli-good-read-me-generator-terminal-demo.gif "CLI Good Read Me Generator (GIF)")
 
@@ -57,7 +57,7 @@
 <p><i>Refer to index.js (javascript file) for code dissection.</i></p>
 
 ## Screenshots
-![CLI Good Read Me Generator (Screenshot #1: npm init)](./demo_assets/ucla-hw9-#2-cli-good-read-me-generator-npm-init.jpg?raw=true "CLI Good Read Me Generator (Screenshot #1: npm init)")
+![CLI Good Read Me Generator (Screenshot #1: npm init)](./demo_assets/ucla-hw9-#1-cli-good-read-me-generator-npm-init.jpg?raw=true "CLI Good Read Me Generator (Screenshot #1: npm init)")
 ![CLI Good Read Me Generator (Screenshot #2: npm install inquirer)](./demo_assets/ucla-hw9-#2-cli-good-read-me-generator-npm-install-inquirer.jpg?raw=true "CLI Good Read Me Generator (Screenshot #2: npm install inquirer)")
 
 ## Video
@@ -70,6 +70,7 @@
 <li>Inquirer</li>
 <li>ES6+</li>
 <li>Axios (optional - for GitHub username verification)</li>
+</ul>
 
  ## License
 <p>
