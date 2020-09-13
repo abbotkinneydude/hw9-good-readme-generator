@@ -35,7 +35,7 @@ npm test
 ## Questions
 ##### Git UserName: https://github.com/palowenstein  ![GitHub Follower]
 
-##### Email: pal@gmail.com
+##### Email: ___@gmail.com
 
 
 ## Licence
