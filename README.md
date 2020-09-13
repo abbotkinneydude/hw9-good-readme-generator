@@ -16,7 +16,7 @@
   * [Contact](#Contact)
 
 ## GIF
-![CLI Good Read Me Generator (GIF)](./demo_assets/ucla-hw9-cli-good-read-me-generator-terminal-demo.gif "CLI Good Read Me Generator (GIF)")
+![CLI Good Read Me Generator (GIF)](./demo_assets/ucla-hw9-cli-good-read-me-generator-demo.gif "CLI Good Read Me Generator (GIF)")
 
 ## Overview
 <ul>
@@ -57,11 +57,14 @@
 <p><i>Refer to index.js (javascript file) for code dissection.</i></p>
 
 ## Screenshots
-![CLI Good Read Me Generator (Screenshot #1: npm init)](./demo_assets/ucla-hw9-#1-cli-good-read-me-generator-npm-init.jpg "CLI Good Read Me Generator (Screenshot #1: npm init)")
-![CLI Good Read Me Generator (Screenshot #2: npm install inquirer)](./demo_assets/ucla-hw9-#2-cli-good-read-me-generator-npm-install-inquirer.jpg "CLI Good Read Me Generator (Screenshot #2: npm install inquirer)" )
+![Alt text](Image URL)
+![CLI Good Read Me Generator (Screenshot #1: npm init)](./demo_assets/ucla-hw9-#1-cli-good-read-me-generator-npm-init.jpg)
+CLI Good Read Me Generator (Screenshot #1: npm init)<br />
+![CLI Good Read Me Generator (Screenshot #2: npm install inquirer)](./demo_assets/ucla-hw9-#2-cli-good-read-me-generator-npm-install-inquirer.jpg)
+ "CLI Good Read Me Generator (Screenshot #2: npm install inquirer)<br />
 
 ## Video
-![CLI Good Read Me Generator (MP4)](./demo_assets/ucla-hw9-cli-good-read-me-generator-terminal-demo.mp4 "CLI Good Read Me Generator (MP4)")
+![CLI Good Read Me Generator (MP4)](./demo_assets/ucla-hw9-cli-good-read-me-generator-demo.mp4 "CLI Good Read Me Generator (MP4)")
 
 ## References
 <ul>
