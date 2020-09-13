@@ -10,14 +10,15 @@
   * [Details](#Details)
   * [Instructions](#Instructions)
   * [Screenshots](#Screenshots)
+  * [Video](#Video)
   * [References](#References)
   * [License](#License)
   * [Contact](#Contact)
-
+/Users/pierreandrelowenstein/Documents/GitHub/hw9-good-readme-generator/demo_assets/ucla-hw9-cli-good-read-me-generator-terminal-demo.mp4
 ## GIF
-![CLI Good Read Me Generator (GIF)](./assets/ucla-hw9-cli-good-readme-generator.gif "CLI Good Read Me Generator (GIF)")
+![CLI Good Read Me Generator (GIF)](./demo_assets/ucla-hw9-cli-good-read-me-generator-terminal-demo.gif "CLI Good Read Me Generator (GIF)")
 
-## Overview:
+## Overview
 <ul>
 <li>Read Me Generator executed in Terminal via (CLI) Command Line Interface.</li>
 <li>Application behaves accordingly to standard ("good") practices and dynamically generates a professional README markdown file.</li>
@@ -26,13 +27,13 @@
 <li>The goal of the application is its simplicity of use and its overall time saving for the final user.</li>
 </ul>
 
-## Details:
+## Details
 <ul>
 <li>A .gitignore file is present at the root level to prevent the upload of node_modules, .DS_Store.</li>
 <li>The included package.json file includes all dependencies if the user wants to run 'npm install' instead of the instructions below</li>
 </ul>
 
-## Instructions:
+## Instructions
 <ul>
 <li>In Terminal, locate the application folder and enter into it via the 'cd' command: cd hw9-cli-good-readme-generator</li>
 <li>Run the 'npm init' command to fill the package json with the application information (screenshot #1).
@@ -55,11 +56,14 @@
 
 <p><i>Refer to index.js (javascript file) for code dissection.</i></p>
 
-## Screenshots:
+## Screenshots
 ![CLI Good Read Me Generator (Screenshot #1: npm init)](./demo_assets/ucla-hw9-#2-cli-good-read-me-generator-npm-init.jpg?raw=true "CLI Good Read Me Generator (Screenshot #1: npm init)")
 ![CLI Good Read Me Generator (Screenshot #2: npm install inquirer)](./demo_assets/ucla-hw9-#2-cli-good-read-me-generator-npm-install-inquirer.jpg?raw=true "CLI Good Read Me Generator (Screenshot #2: npm install inquirer)")
 
-## References:
+## Video
+![CLI Good Read Me Generator (MP4)](./demo_assets/ucla-hw9-cli-good-read-me-generator-terminal-demo.mp4 "CLI Good Read Me Generator (MP4)")
+
+## References
 <ul>
 <li>Node.js</li>
 <li>Javascript</li>
