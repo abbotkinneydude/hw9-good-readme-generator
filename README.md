@@ -65,8 +65,8 @@
 <h6>CLI Good Read Me Generator (Screenshot #2: npm install inquirer)</h6>
 <br />
 
-![CLI Good Read Me Generator (Screenshot #3: Read Me Markdown generated from user input)](./demo_assets/ucla-hw9-4-cli-good-read-me-generator-generated-read-me-markdown.jpg?raw=true "CLI Good Read Me Generator (Screenshot #3: Generated Read Me Markdown")
-<h6>CLI Good Read Me Generator (Screenshot #3: Generated Read Me Markdown</h6>
+![CLI Good Read Me Generator (Screenshot #3: Read Me Markdown generated from user input)](./demo_assets/ucla-hw9-4-cli-good-read-me-generator-generated-read-me-markdown.jpg?raw=true "CLI Good Read Me Generator (Screenshot #3: Generated Read Me Markdown)")
+<h6>CLI Good Read Me Generator (Screenshot #3: Generated Read Me Markdown)</h6>
 <br />
 
 ## Video
