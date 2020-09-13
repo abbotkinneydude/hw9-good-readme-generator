@@ -59,13 +59,16 @@
 ## Screenshots
 ![CLI Good Read Me Generator (Screenshot #1: npm init)](./demo_assets/ucla-hw9-1-cli-good-read-me-generator-npm-init.jpg?raw=true "CLI Good Read Me Generator (Screenshot #1: npm init)")
 <h6>CLI Good Read Me Generator (Screenshot #1: npm init)</h6>
+
 ![CLI Good Read Me Generator (Screenshot #2: npm install inquirer)](./demo_assets/ucla-hw9-2-cli-good-read-me-generator-npm-install-inquirer.jpg?raw=true "CLI Good Read Me Generator (Screenshot #2: npm install inquirer)")
 <h6>CLI Good Read Me Generator (Screenshot #2: npm install inquirer)</h6>
+
 ![CLI Good Read Me Generator (Screenshot #4: Read Me Markdown generated from user input)](./demo_assets/ucla-hw9-4-cli-good-read-me-generator-generated-read-me-markdown.jpg?raw=true "CLI Good Read Me Generator (Screenshot #4: Generated Read Me Markdown")
 <h6>CLI Good Read Me Generator (Screenshot #4: Generated Read Me Markdown</h6>
 
 ## Video
-![CLI Good Read Me Generator (MP4)](./demo_assets/ucla-hw9-cli-good-read-me-generator-demo.mp4 "CLI Good Read Me Generator (MP4)")
+![CLI Good Read Me Generator Prompt Flow (MP4)](./demo_assets/ucla-hw9-cli-good-read-me-generator-demo.mp4 "CLI Good Read Me Generator Prompt Flow (MP4)")
+<h6>CLI Good Read Me Generator Prompt Flow (MP4)</h6>
 
 ## References
 <ul>
