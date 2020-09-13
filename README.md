@@ -37,9 +37,9 @@
 <ul>
 <li>In Terminal, locate the application folder and enter into it via the 'cd' command: cd hw9-cli-good-readme-generator</li>
 <li>Run the 'npm init' command to fill the package json with the application information (screenshot #1).
-<li>Run the 'npm inquirer' to install the inquirer dependencies.</li>
-<li>Run the 'node index.js' command to start the application in Terminal.</li>
-<li>While still in Terminal, answer the following prompts (screenshot #2):
+<li>Run the 'npm inquirer' to install the inquirer dependencies (screenshot #2).</li>
+<li>Run the 'node index.js' command to start the application in Terminal (GIF/MP4).</li>
+<li>While still in Terminal, answer the following prompts (GIF/MP4):
     <ol>
     <li>GitHub Username</li>
     <li>E-Mail</li>
@@ -51,7 +51,7 @@
     <li>Usage</li>
     <li>Contributions</li>
     </ol>
-<li>Once all questions have been answered, a "README — Title (based on the title entered).md" will be generated in the application folder</li>
+<li>Once all questions have been answered, a "README — Title (based on the title entered).md" will be generated in the application folder (screenshot #3).</li>
 </ul>
 
 <p><i>Refer to index.js (javascript file) for code dissection.</i></p>
@@ -65,8 +65,8 @@
 <h6>CLI Good Read Me Generator (Screenshot #2: npm install inquirer)</h6>
 <br />
 
-![CLI Good Read Me Generator (Screenshot #4: Read Me Markdown generated from user input)](./demo_assets/ucla-hw9-4-cli-good-read-me-generator-generated-read-me-markdown.jpg?raw=true "CLI Good Read Me Generator (Screenshot #4: Generated Read Me Markdown")
-<h6>CLI Good Read Me Generator (Screenshot #4: Generated Read Me Markdown</h6>
+![CLI Good Read Me Generator (Screenshot #3: Read Me Markdown generated from user input)](./demo_assets/ucla-hw9-4-cli-good-read-me-generator-generated-read-me-markdown.jpg?raw=true "CLI Good Read Me Generator (Screenshot #3: Generated Read Me Markdown")
+<h6>CLI Good Read Me Generator (Screenshot #3: Generated Read Me Markdown</h6>
 <br />
 
 ## Video
