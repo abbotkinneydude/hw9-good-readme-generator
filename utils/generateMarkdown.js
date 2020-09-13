@@ -10,7 +10,7 @@ ${data.description}
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributions](#Contributions)
-* [Test Guidelines](#Test)
+* [Test](#Test)
 * [Questions](#Questions)
 * [Licence](#Licence)
 \n
@@ -18,15 +18,15 @@ ${data.description}
 \n
 ## Usage\n${data.rules}
 \n
-## Licence\n${data.licence}
+## Contributions\n${data.contributions}
 \n
-## Contribution Guidelines\n${data.contributions}
-\n
-## Test Guidelines\n${data.test}
+## Test\n${data.test}
 \n
 ## Questions
 ##### Git UserName: https://github.com/${data.username}  ![GitHub Follower]\n
 ##### Email: ${data.email}
+\n
+## Licence\n${data.licence}
 `
 };
 

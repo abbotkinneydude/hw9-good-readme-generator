@@ -11,7 +11,7 @@ Command Line Interface Application to create Professional Read Me Markdown
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributions](#Contributions)
-* [Test Guidelines](#Test)
+* [Test](#Test)
 * [Questions](#Questions)
 * [Licence](#Licence)
 
@@ -24,15 +24,11 @@ npm install
 do not write to master, use branches.
 
 
-## Licence
-MIT,https://choosealicense.com/licenses/mit/
-
-
-## Contribution Guidelines
+## Contributions
 Pull from master, create your own branch, add your own code, push your branch, request a pull.
 
 
-## Test Guidelines
+## Test
 npm test
 
 
@@ -40,3 +36,7 @@ npm test
 ##### Git UserName: https://github.com/palowenstein  ![GitHub Follower]
 
 ##### Email: pal@gmail.com
+
+
+## Licence
+MIT,https://choosealicense.com/licenses/mit/

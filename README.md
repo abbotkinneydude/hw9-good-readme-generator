@@ -57,8 +57,8 @@
 <p><i>Refer to index.js (javascript file) for code dissection.</i></p>
 
 ## Screenshots
-![CLI Good Read Me Generator (Screenshot #1: npm init)](./demo_assets/ucla-hw9-#1-cli-good-read-me-generator-npm-init.jpg?raw=true "CLI Good Read Me Generator (Screenshot #1: npm init)")
-![CLI Good Read Me Generator (Screenshot #2: npm install inquirer)](./demo_assets/ucla-hw9-#2-cli-good-read-me-generator-npm-install-inquirer.jpg?raw=true "CLI Good Read Me Generator (Screenshot #2: npm install inquirer)")
+![CLI Good Read Me Generator (Screenshot #1: npm init)](./demo_assets/ucla-hw9-#1-cli-good-read-me-generator-npm-init.jpg "CLI Good Read Me Generator (Screenshot #1: npm init)")
+![CLI Good Read Me Generator (Screenshot #2: npm install inquirer)](./demo_assets/ucla-hw9-#2-cli-good-read-me-generator-npm-install-inquirer.jpg "CLI Good Read Me Generator (Screenshot #2: npm install inquirer)" )
 
 ## Video
 ![CLI Good Read Me Generator (MP4)](./demo_assets/ucla-hw9-cli-good-read-me-generator-terminal-demo.mp4 "CLI Good Read Me Generator (MP4)")
