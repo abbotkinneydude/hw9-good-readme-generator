@@ -41,15 +41,15 @@
 <li>Run the 'node index.js' command to start the application in Terminal.</li>
 <li>While still in Terminal, answer the following prompts (screenshot #2):
     <ol>
+    <li>GitHub Username</li>
+    <li>E-Mail</li>
     <li>Title</li>
     <li>Description</li>
-    <li>Table of Contents</li>
+    <li>Licence</li>
     <li>Installation</li>
-    <li>Usage</li>
-    <li>License (Choice only question)</li>
-    <li>Contributing</li>
     <li>Tests</li>
-    <li>Questions</li>
+    <li>Usage</li>
+    <li>Contributions</li>
     </ol>
 <li>Once all questions have been answered, a "README — Title (based on the title entered).md" will be generated in the application folder</li>
 </ul>
@@ -59,7 +59,7 @@
 ## Screenshots
 ![CLI Good Read Me Generator (Screenshot #1: npm init)](./demo_assets/ucla-hw9-#1-cli-good-read-me-generator-npm-init.jpg?raw=true "CLI Good Read Me Generator (Screenshot #1: npm init)")
 ![CLI Good Read Me Generator (Screenshot #2: npm install inquirer)](./demo_assets/ucla-hw9-#2-cli-good-read-me-generator-npm-install-inquirer.jpg?raw=true "CLI Good Read Me Generator (Screenshot #2: npm install inquirer)")
-![CLI Good Read Me Generator (Screenshot #3: Read Me Markdown generated from user input)](./demo_assets/ucla-hw9-#4-cli-good-read-me-generator-generated-read-me-markdown.jpg?raw=true "CLI Good Read Me Generator (Screenshot #3: Generated Read Me Markdown")
+![CLI Good Read Me Generator (Screenshot #4: Read Me Markdown generated from user input)](./demo_assets/ucla-hw9-#4-cli-good-read-me-generator-generated-read-me-markdown.jpg?raw=true "CLI Good Read Me Generator (Screenshot #4: Generated Read Me Markdown")
 
 ## Video
 ![CLI Good Read Me Generator (MP4)](./demo_assets/ucla-hw9-cli-good-read-me-generator-demo.mp4 "CLI Good Read Me Generator (MP4)")
