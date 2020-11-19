@@ -2,7 +2,7 @@
 ![Project license](https://img.shields.io/badge/license-MIT,https://choosealicense.com/licenses/mit/-brightgreen)
 
 <h3>READ ME Generator executed via Command Line Interface (CLI) in Terminal.</h3>
-<p>Github Repository Page: https://github.com/palowenstein/hw9-cli-good-readme-generator</p>
+<p>Github Repository Page: https://github.com/palowenstein/cli-good-readme-generator</p>
 <p>Github Deployment Page: N/A - App is to be executed in Terminal via CLI.</p>
 
 # Table of Contents
