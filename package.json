@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "@palowenstein",
+  "author": "Pierre Andre Lowenstein",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.20.0",
