@@ -1,4 +1,4 @@
-## #hw9-cli-good-readme-generator
+## #9-cli-good-readme-generator
 ![Project license](https://img.shields.io/badge/license-MIT,https://choosealicense.com/licenses/mit/-brightgreen)
 
 <h3>READ ME Generator executed via Command Line Interface (CLI) in Terminal.</h3>
@@ -17,7 +17,7 @@
   * [Contact](#Contact)
 
 ## GIF
-![CLI Good Read Me Generator (GIF)](./demo_assets/ucla-hw9-cli-good-read-me-generator-demo.gif "CLI Good Read Me Generator (GIF)")
+![CLI Good Read Me Generator (GIF)](./demo_assets/9-cli-good-read-me-generator-demo.gif "CLI Good Read Me Generator (GIF)")
 
 ## Overview
 <ul>
@@ -58,20 +58,20 @@
 <p><i>Refer to index.js (javascript file) for code dissection.</i></p>
 
 ## Screenshots
-![CLI Good Read Me Generator (Screenshot #1: npm init)](./demo_assets/ucla-hw9-1-cli-good-read-me-generator-npm-init.jpg?raw=true "CLI Good Read Me Generator (Screenshot #1: npm init)")
+![CLI Good Read Me Generator (Screenshot #1: npm init)](./demo_assets/9-1-cli-good-read-me-generator-npm-init.jpg?raw=true "CLI Good Read Me Generator (Screenshot #1: npm init)")
 <h6>CLI Good Read Me Generator (Screenshot #1: npm init)</h6>
 <br />
 
-![CLI Good Read Me Generator (Screenshot #2: npm install inquirer)](./demo_assets/ucla-hw9-2-cli-good-read-me-generator-npm-install-inquirer.jpg?raw=true "CLI Good Read Me Generator (Screenshot #2: npm install inquirer)")
+![CLI Good Read Me Generator (Screenshot #2: npm install inquirer)](./demo_assets/9-2-cli-good-read-me-generator-npm-install-inquirer.jpg?raw=true "CLI Good Read Me Generator (Screenshot #2: npm install inquirer)")
 <h6>CLI Good Read Me Generator (Screenshot #2: npm install inquirer)</h6>
 <br />
 
-![CLI Good Read Me Generator (Screenshot #3: Read Me Markdown generated from user input)](./demo_assets/ucla-hw9-4-cli-good-read-me-generator-generated-read-me-markdown.jpg?raw=true "CLI Good Read Me Generator (Screenshot #3: Generated Read Me Markdown)")
+![CLI Good Read Me Generator (Screenshot #3: Read Me Markdown generated from user input)](./demo_assets/9-4-cli-good-read-me-generator-generated-read-me-markdown.jpg?raw=true "CLI Good Read Me Generator (Screenshot #3: Generated Read Me Markdown)")
 <h6>CLI Good Read Me Generator (Screenshot #3: Generated Read Me Markdown)</h6>
 <br />
 
 ## Video
-![CLI Good Read Me Generator Prompt Flow (MP4)](./demo_assets/ucla-hw9-cli-good-read-me-generator-demo.mp4 "CLI Good Read Me Generator Prompt Flow (MP4)")
+![CLI Good Read Me Generator Prompt Flow (MP4)](./demo_assets/9-cli-good-read-me-generator-demo.mp4 "CLI Good Read Me Generator Prompt Flow (MP4)")
 <h6>CLI Good Read Me Generator Prompt Flow (MP4)</h6>
 <br />
 
@@ -91,7 +91,7 @@
 
  ## Contact
 <p>
-<a href="http://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
+<a href="https://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
 &nbsp;|&nbsp;
-<a href="mailto:soundtrackspecialist@gmail.com" title="Courriel">Send me a 'courriel'</a>
+<a href="mailto:coder@pierreandrelowenstein.com" title="Courriel">Send me a 'courriel'</a>
 </p>
